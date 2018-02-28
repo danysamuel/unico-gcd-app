@@ -4,7 +4,6 @@ package com.danyprj.rest.gcd.controller;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.jms.core.JmsTemplate;
